@@ -1,0 +1,15 @@
+{
+  "expo": {
+    "name": "quranmemorization",
+    "slug": "quranmemorization",
+    "version": "1.0.0",
+    "newArchEnabled": true,
+    "plugins": [
+      "expo-sqlite",
+      "expo-asset"
+    ],
+    "android": {
+      "package": "com.anonymous.quranmemorization"
+    }
+  }
+}
